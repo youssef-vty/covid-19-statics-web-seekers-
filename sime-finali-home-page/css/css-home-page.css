@@ -40,6 +40,7 @@ nav a {
 
  nav a:hover {
       color: #1131a6;
+      transform: scale(1.2); 
 }
 
 #Overview {
@@ -173,4 +174,5 @@ input:focus {
 body {
   background-color: var(--body);
   font-family: "Merriweather";
+
 }
