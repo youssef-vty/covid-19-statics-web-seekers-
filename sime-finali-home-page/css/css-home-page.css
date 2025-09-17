@@ -176,3 +176,26 @@ body {
   font-family: "Merriweather";
 
 }
+
+.link {
+  display: grid;
+  grid-template-columns: 1fr 1fr;  
+  position: relative;                 
+  bottom: 0;                       
+  width: 100%;                     
+}
+
+.link a {
+  text-decoration: none;
+  background-color: #5c6b73;
+  color: #e0fbfc;
+  border-radius: 10px;
+  transition: 0.3s;
+  text-align: center;
+}
+
+.link a:hover {
+  background-color: #9db4c0;
+  transform: scale(1.1);
+}
+
