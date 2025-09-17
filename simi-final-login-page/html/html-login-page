@@ -24,7 +24,7 @@
         <pre>
                 <section> 
         <img src="virus.webp" alt="image" width="150px" height="150px "class="img">
-        <form method="GET" action="../sime-finali-home-page/html/html-home-page.html"> 
+        <form method="GET" action="sime-finali-home-page/html/html-home-page.html"> 
         <label class="label1">please enter your first name!</label>
         <input type="text" name="first name" id="username" placeholder="first name" required>
 <br>
