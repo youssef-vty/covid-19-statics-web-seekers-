@@ -130,6 +130,7 @@ button:hover{
   }
 
   .div1 {
+    display:grid;
     grid-template-columns: 1fr;
   }
 }
