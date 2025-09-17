@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> statics</title>
+  <link rel="stylesheet" href="login page.css">
+</head>
+<body>
+<header>
+          <center>
+   <div class="div1">
+
+  <h1 class="header1"> covid-19 statics </h1 >
+  <h5 class="header5"> (by web seekers!)</h5>
+  <br>
+    <h2 class="header2">Login</h2>
+    <iframe  controls width="943" height="284" src="https://www.youtube.com/embed/EwPKdofu5x4" title="🦠 COVID-19: The virus that paralyzed the world 🌍 | SARS-CoV-2 explained in 3D" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen class="video"></iframe>
+    <img src="poster.jpg" alt="poster ( sadly the poster is not loading :( )" width="300 px" height="400 px "class="poster">
+   </header>
+</div>
+<main>
+    <div>
+        <pre>
+                <section> <img src="covid 19 virus.webp" alt="poster ( sadly the poster is not loading :( )" width="150px" height="150px "class="img"></section>
+                <form method="GET" action="../sime-finali-home-page/html/html-home-page.html"> 
+        <label class="label1">please enter your first name!</label>
+        <input type="text" name="first name" id="username" placeholder="first name" required>
+<br>
+        <label class="label 2">please enter your last name!</label>
+        <input type="text" name="last name" placeholder="last name"required>
+<br>
+        <label>please enter your email!</label>
+        <input type="email" name="email" placeholder="email"required>
+<br>
+        <label>please enter your password!</label>
+        <input type="password" name="password" placeholder="pasword"required>
+<br>
+        <label>please enter your phone number!</label>
+        <input type="number" name="number" placeholder="phone number"required>
+        <br>
+               <button type="submit" onclick= "sayhello()" >
+            click me
+        </button>   
+      </section>
+</div>
+        </form>
+        </main>
+  
+
+        <script src="cs.js"> 
+        </script>
+                 </center>
+                 <footer>
+                 <img src="logo.jpg"logo ( sadly the logo is not loading :( )" height="150 px" width="150 px" class="logo">
+</footer>
+    </pre>
+
+    
+</body>
+</html>
