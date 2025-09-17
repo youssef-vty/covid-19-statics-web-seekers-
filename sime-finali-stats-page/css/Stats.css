@@ -137,11 +137,13 @@ table tr{
     width: 300px;
     height: 200px;
     background-size: contain;
+    box-shadow: 10px 10px 10px 0px #1b3763;
 }
 .gr2{
     width: 300px;
     height: 200px;
     background-size: contain;
+    box-shadow: 10px 10px 10px 0px #1b3763;
 }
 .graph{
     text-align: center;
@@ -158,3 +160,16 @@ footer{
     width: 100px;
     height: auto;
 }
+
+.textshadow1 {
+    text-shadow: 10px 10px 10px black; 
+}
+
+.textshadow2 {
+    text-shadow: 10px 10px 10px black; 
+}
+
+.textshadow3 {
+    text-shadow: 10px 10px 10px black; 
+}
+
